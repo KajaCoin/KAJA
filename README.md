@@ -1,0 +1,2 @@
+# KAJA
+KajaCoin
