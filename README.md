@@ -1,7 +1,7 @@
 # KAJA
-KajaCoin
+KajaCoin by Wsoum
 
-Smart Contract : 0x34731850219Ed7ad20F44100183A02Afb297Af15
+BEP20 Smart Contract : 0x34731850219Ed7ad20F44100183A02Afb297Af15
 
 Total Supply : 1,000,000,000
 
